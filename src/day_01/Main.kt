@@ -1,3 +1,5 @@
+package day_01
+
 fun main() {
 
     fun capibara(x : Int) {
@@ -18,7 +20,7 @@ fun main() {
     /*
     *
     *  map() goes through all elements in collection
-    *  it actually an element of collection
+    *  'it' actually an element of collection
     *
     * */
 
